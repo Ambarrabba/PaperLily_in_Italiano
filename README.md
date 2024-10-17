@@ -21,7 +21,7 @@ Non è impossibile che sia rimasto un qualche piccolo rimasuglio del portoghese 
 
 -Assicurarsi di avere la versione 1.1.5 del gioco.
 
--Scaricare il file *translation_pt_BR.pck* e CONSERVARLO in un luogo reperibile se si usa Steam (se Steam effettua un controllo sui file di gioco, sostituisce la mia versione con quella originale).
+-Scaricare il file *translation_pt_BR.pck* [https://github.com/Ambarrabba/PaperLily_in_Italiano/blob/main/translation_pt_BR.pck] e CONSERVARLO in un luogo reperibile se si usa Steam (se Steam effettua un controllo sui file di gioco, sostituisce la mia versione con quella originale).
   Non rinominare assolutamente il file.
 
 -Sostituire *translation_pt_BR.pck* che si trova dentro a *\Paper Lily - Chapter 1\pack* in cui sono salvati i file di gioco (su Steam si trova nella cartella  *\Steam\steamapps\common\Paper Lily - Chapter 1\pack*).
