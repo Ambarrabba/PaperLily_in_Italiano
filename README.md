@@ -36,3 +36,6 @@ Non è impossibile che sia rimasto un qualche piccolo rimasuglio del portoghese 
 Generalmente ho provato a restare il più fedele possibile alle frasi originali, ma raramente ci ho aggiunto il mio personalissimo tocco (si nota dove).
 
 Spero possa essere utile!
+
+
+P.S. per quanto riguarda il sito, si è attivato in automatico e non c'è dubbio che ci metta mano. Dopotutto devo accontentare i sommi motori di ricerca per rendere la pagina visibile :3 
