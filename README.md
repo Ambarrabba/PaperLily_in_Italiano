@@ -2,7 +2,7 @@
 
 IMPORTANTE:
 Questa traduzione non è stata approvata ne visionata da Leef6010. Si tratta di un progetto puramente personale e amatoriale. Qualsiasi problema legato a questa traduzione è interamente mia responsabilità.
-_Funziona SOLO con la versione 1.1.5_
+_Testato SOLO con la versione 1.1.5_. Dovrebbe funzionare per la maggior parte anche con la versione 1.1.6.
 
 
 # Introduzione 
@@ -19,7 +19,7 @@ Non è impossibile che sia rimasto un qualche piccolo rimasuglio del portoghese 
 
 # Installazione
 
--Assicurarsi di avere la versione 1.1.5 del gioco.
+-~~Assicurarsi di avere la versione 1.1.5 del gioco.~~ (la 1.1.6 sembra ok)
 
 -Scaricare il file *translation_pt_BR.pck* [https://github.com/Ambarrabba/PaperLily_in_Italiano/blob/main/translation_pt_BR.pck] e CONSERVARLO in un luogo reperibile se si usa Steam (se Steam effettua un controllo sui file di gioco, sostituisce la mia versione con quella originale).
   Non rinominare assolutamente il file.
