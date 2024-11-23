@@ -21,6 +21,7 @@ Allora questa può fare al caso vostro.
 
 
 Questo file non è altro che la traduzione portoghese modificata a "livello binario" e adattata per l'italiano. (Di fatti sono presenti 2 immagini al suo interno che sono rimaste in portoghese perché non so come modificarle, ma danno carattere al tutto)
+
 Non è impossibile che sia rimasto un qualche piccolo rimasuglio del portoghese qua e là. Se invece è rimasto dell'inglese allora devo aver fatto un errore da qualche parte.
 
 
